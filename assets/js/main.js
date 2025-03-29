@@ -400,10 +400,10 @@
 
 })(jQuery);
 
-const count=document.getElementById("count");
+// const count=document.getElementById("count");
 
-totalUpdate();
+// totalUpdate();
 
-function totalUpdate{
-	fetch()
-}
+// function totalUpdate{
+// 	fetch()
+// }
